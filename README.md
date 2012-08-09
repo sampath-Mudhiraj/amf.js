@@ -15,3 +15,5 @@ http://download.macromedia.com/pub/labs/amf/amf3_spec_121207.pdf
 Future implementations will include Node.js support.
 
 Wiki: http://en.wikipedia.org/wiki/Action_Message_Format
+
+New ideias and suggestions are welcome.
